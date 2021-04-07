@@ -1,5 +1,5 @@
 # 巴西Olist E-Commerce数据分析项目：[OlistE-commerceProject.ipynb](OlistE-commerceProject.ipynb)
-Note:打开若显示“Sorry, something went wrong. Reload?”，刷新浏览器即可打开。
+Note:打开若显示“Sorry, something went wrong. Reload?”，刷新浏览器打开即可。
 
 项目背景与介绍:
 
